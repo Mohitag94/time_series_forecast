@@ -1,0 +1,19 @@
+# Core data handling
+pandas
+numpy
+ 
+# Statistical modelling
+statsmodels
+pmdarima
+scipy
+ 
+# Machine learning / evaluation
+scikit-learn
+ 
+# Deep learning (LSTM, GRU, hybrid LSTM-GRU models)
+tensorflow
+keras-tuner
+ 
+# Visualisation
+matplotlib
+seaborn
